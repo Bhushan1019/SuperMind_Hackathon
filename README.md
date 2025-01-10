@@ -4,11 +4,14 @@
 
 ## Complete Technical Documentation
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## Deployment
 
 ### Live Application
 
-- Production URL: https://socialanalytics-client.onrender.com/
+- Production URL:
 - Platform: Render
 - Status: Active
 
